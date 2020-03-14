@@ -156,6 +156,7 @@ struct ContentView: View {
                         Path(CGRect(x: 310, y: 401, width: 16, height: 10)).fill(Color(hue: 0.683, saturation: 0.925, brightness: 0.877)).rotationEffect(.degrees(-0))
                         
                         Path(CGRect(x: 316, y: 395, width: 12, height: 60)).fill(Color(hue: 0.683, saturation: 0.925, brightness: 0.877)).rotationEffect(.degrees(7))
+                        Path(CGRect(x: 296, y: 452, width: 20, height: 10)).fill(Color(hue: 0.683, saturation: 0.925, brightness: 0.877)).rotationEffect(.degrees(0))
                     }
                 }
                 Path{ (path3) in  //下方白色空白底
